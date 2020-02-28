@@ -1,6 +1,6 @@
 var i = 1;
 var j= -1;
-var list = ['Econimist . Programmer . Quant'];
+var list = ['Economist . Programmer . Quant'];
 var a=list[0];
 var len = list.length;
 var num = 0;
